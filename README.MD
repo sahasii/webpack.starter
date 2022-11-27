@@ -12,3 +12,18 @@ y para recontruir el build
 ```
 npm run build
 ```
+
+
+para subir a git
+
+```
+git add.
+```
+
+```
+git commit -m "nombre actualizacion"
+```
+
+```
+git push
+```
